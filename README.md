@@ -1,43 +1,29 @@
 # AWS-SAA-C03-Study-Guide
 
-Study notes and resources for preparing for the AWS Certified Solutions Architect - Associate (SAA-C03) exam.
+Study notes for learning about AWS cloud architecture.
 
-## Overview
-This repository contains comprehensive study notes and resources for the AWS Certified Solutions Architect - Associate (SAA-C03) certification exam.
+## What This Is
+A collection of notes to help you understand AWS services.
 
-## Exam Information
-- **Certification**: AWS Certified Solutions Architect - Associate (SAA-C03)
-- **Exam Format**: Multiple choice and multiple answer questions
-- **Duration**: 180 minutes
-- **Passing Score**: 720/1000
+## Basic Topics
+- What is cloud computing?
+- Overview of AWS services
+- Simple architecture concepts
 
-## Study Resources
-- AWS Official Documentation
-- Practice Exams
-- Hands-on Labs
-- Video Courses
+## How to Use
+1. Read through the notes
+2. Try the concepts with AWS Free Tier
+3. Search for more details on topics you want to learn
+
+## Learn More
+- AWS official documentation
+- Free AWS training courses
+- Online tutorials for beginners
 
 ## Topics Covered
-- Cloud Concepts
-- Security and Compliance
-- Technology
-- Billing and Pricing
-- AWS Core Services
-- Architecture Best Practices
+- Cloud basics
+- AWS services overview
+- Simple use cases
 
-## Study Plan
-1. Review the [AWS Exam Guide](https://d1.awsstatic.com/training/PDF/AWS-Certified-Solutions-Architect-Associated_Exam-Guide.pdf)
-2. Complete hands-on labs for each service
-3. Take practice exams
-4. Review weak areas
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Topics
-- aws
-- aws-certification
-- cloud-computing
-- saa-c03
-- study-guide
-```
+## Author
+Student learning project
